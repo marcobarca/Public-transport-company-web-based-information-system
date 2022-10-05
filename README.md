@@ -1,4 +1,4 @@
-#Public transport company web-based information system
+# Public transport company web-based information system
 
 Web-based information system that supports a public transport company in managing the ticketing process and in granting automatic access to the vehicles.
 
